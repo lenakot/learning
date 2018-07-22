@@ -1,2 +1,3 @@
-Hello!
-It's my first repository for studying.
+# Hello!
+
+It's my *first* repository for studying.
